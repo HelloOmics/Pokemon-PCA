@@ -9,8 +9,9 @@ PCA Analysis of full Pokemon Dataset available on Kaggle
 - Interactive 2D plotly plot was made where all Pokemon are plotted for Defense on Y-achsis and Attack on X-achsis
 - Interactive 2D plotly plot was made where all Pokemon are plotted for Defense on Y-achsis and Health on X-achsis. Datapoints were coloured dependent on their primary typing.
 - Names were kept as labels for datapoints for both plots, so can see which Pokemon it is when your cursor hovers over the data point
-- ![plot](https://github.com/user-attachments/assets/14b8a1e6-acb1-4171-9b14-65df2db0da7f)
-- ![plot2](https://github.com/user-attachments/assets/fb7f0c4b-93b6-4ddf-8dd5-eac52ab34536)
+![plot](https://github.com/user-attachments/assets/14b8a1e6-acb1-4171-9b14-65df2db0da7f)
+![plot2](https://github.com/user-attachments/assets/d3ff6811-f3a9-4807-9229-51fc736883f8)
+
 
 
 
@@ -20,7 +21,7 @@ PCA Analysis of full Pokemon Dataset available on Kaggle
 - Two 3D plots were made of the second PCA with 6 components. First plot shows PC1 vs PC2 vs PC3, second plot shows PC4 vs PC5 vs PC6
 - Again, names of the pokemon were used as datapoint labels to be seen when the cursor hovers over the datapoint, the colour of the datapoint is dependent on the primary typing of the Pokemon.
 - 3D interactive html plot can be zoomed in/out as well turned around 360 degree achsis in any direction.
-- ![plot6](https://github.com/user-attachments/assets/6bbbe392-c736-434e-8bef-0e5765ce10f5)
-- ![plot62](https://github.com/user-attachments/assets/5b8c27b9-aad1-479b-a1f9-6eb40ff176d7)
+![plot6](https://github.com/user-attachments/assets/6bbbe392-c736-434e-8bef-0e5765ce10f5)
+![plot62](https://github.com/user-attachments/assets/5b8c27b9-aad1-479b-a1f9-6eb40ff176d7)
 
 
